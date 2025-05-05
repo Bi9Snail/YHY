@@ -1,0 +1,13 @@
+{
+  "name": "YHY_Test",
+  "symbol": "YHY",
+  "description": "어떻게 사람 이름이 양현용?",
+  "extensions": {
+    "website" : "웹사이트",
+    "twitter" : "웹사이트",
+    "dicord" : "웹사이트",
+    "telegram" : "웹사이트"
+  },
+  "tags": ["How", "Name", "YHY"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/YHY/main/YHY_logo.jpg"
+}
